@@ -78,3 +78,5 @@ CUSTOM_MATRIX = yes
 LAYOUTS = ortho_4x14
 
 DEFAULT_FOLDER = ergo42/rev1
+
+TAP_DANCE_ENABLE = yes
